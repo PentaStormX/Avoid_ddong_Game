@@ -2,6 +2,6 @@
 
 # Avoid_ddong_Game
 
-Programs to make funny my child 
+## Programs to make funny my child 
 
-this Program Language <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black"/>
+This Program Language is <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black"/>
