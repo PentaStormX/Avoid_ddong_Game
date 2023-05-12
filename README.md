@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=blue&height=300&section=header&text=dodge%20ddong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=300&section=header&text=dodge%20ddong&fontSize=90)
 
 # Avoid_ddong_Game
 
