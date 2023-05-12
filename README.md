@@ -1,5 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=dodge%20ddong&fontSize=90)
+
 # Avoid_ddong_Game
 
 Programs to make funny my child 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black"/>
+this Program Language <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black"/>
