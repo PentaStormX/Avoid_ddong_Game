@@ -5,3 +5,11 @@
 ## Programs to make funny my sun:boy: and daughter:girl:
 
 > This Program Language is <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=black"/>
+
+## Select Character Posible!!
+
+> 👦 <---- left
+> 
+> Right ----> 👧
+
+### 5 Seconds Prepare Time After Select, and Enjoy Game.
